@@ -1,3 +1,4 @@
+[![MasterHead](https://raw.githubusercontent.com/abdul/alfred-network-location-switch/master/preview.gif)]
 # 🏂🏻 Jayanth R G
 
 **`Digital Craftsman (Developer | Novelist | Gamer)`**

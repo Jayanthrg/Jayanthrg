@@ -1,5 +1,5 @@
 ![MasterHead](https://wallpaperaccess.com/full/7167590.jpg)
-#<h3 align="center"> 🏂🏻Hi, Jayanth R G here</h3>
+<h3 align="center"> 🏂🏻Hi, Jayanth R G here</h3>
 
 **`Digital Craftsman (Developer | Novelist | Gamer)`**
 #
@@ -44,4 +44,4 @@ I'm an aspiring digital entrepreneur focusing on building my technical portfolio
 <br>
 
 #
-<h3 align="center">“Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.” – Dan Salomon</h3>
+<p align="center">“Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.” – Dan Salomon</p>

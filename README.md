@@ -1,5 +1,5 @@
-![MasterHead](C:\Users\Administrator\Downloads\Docs\Eat.png)
-<h3 align="center"> 🏂🏻Hi, Jayanth R G here</h3>
+![MasterHead](https://ibb.co/T0b0Xpj)
+<h1 align="left"> 🏂🏻Hi, Jayanth R G here</h1>
 
 **`Digital Craftsman (Developer | Novelist | Gamer)`**
 #

@@ -42,7 +42,7 @@ I'm an aspiring digital entrepreneur focusing on building my technical portfolio
 ⚡  **`Vortex`**    -  Modding Skyrim 😄 <br>
 
 #
-### Connect with me:
+### 🐱‍👤 Connect with me:
 
 <a href="https://www.linkedin.com/in/jayanth-rg-350a76179/">
     <img align="left" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
@@ -51,4 +51,4 @@ I'm an aspiring digital entrepreneur focusing on building my technical portfolio
 <br>
 
 #
-<p align="center"><i><b>“Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.”</i></b> – Dan Salomon</p>
+<p align="center"><i><b>“Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.”</i></b> – Antoine de Saint-Exupery</p>

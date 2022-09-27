@@ -1,5 +1,5 @@
-[![MasterHead](https://raw.githubusercontent.com/abdul/alfred-network-location-switch/master/preview.gif)]
-# 🏂🏻 Jayanth R G
+[![MasterHead](https://raw.githubusercontent.com/abdul/alfred-network-location-switch/master/preview.gif)
+# 🏂🏻Hi, Jayanth R G here
 
 **`Digital Craftsman (Developer | Novelist | Gamer)`**
 
@@ -40,3 +40,6 @@ I'm an aspiring digital entrepreneur focusing on building my technical portfolio
     <img align="left" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
 <a href="https://www.instagram.com/jayanth_r_g/">
     <img align="left" alt="Instagram" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/></a>
+
+#
+<h2>“Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.” – Dan Salomon</h2>

@@ -1,7 +1,6 @@
 ![MasterHead](https://images.hdqwalls.com/download/eat-sleep-code-repeat-er-1600x900.jpg)
 # 🏂🏻Hi, Jayanth R G here
 **`Digital Craftsman (Developer | Novelist | Gamer)`**
-#
 
 I'm an aspiring digital entrepreneur focusing on building my technical portfolio as well as learning new technologies and contributing what all i can to make the world a better place. All coding projects are build from the ground up, from planning and designing, using references as and when possible to achieve solutions to real-life problems. I am a very committed person towards my profession and passion (⌐■_■)
 
@@ -13,15 +12,24 @@ I'm an aspiring digital entrepreneur focusing on building my technical portfolio
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="Unix" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg"/>
-<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
-<img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
-<img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
-<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<a href="https://www.youtube.com/watch?v=87SH2Cn0s9A">
+    <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/></a>
+<a href="https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=1s">
+    <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
+<a href="https://www.youtube.com/watch?v=kUMe1FH4CHE">
+    <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
+<a href="https://www.youtube.com/watch?v=OXGznpKZ_sA">
+    <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
+<a href="https://www.youtube.com/watch?v=8c1BL5b47kg">
+    <img align="left" alt="Unix" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg"/></a>
+<a href="https://learn.microsoft.com/en-in/training/paths/az-900-describe-cloud-concepts/">
+    <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/></a>
+<a href="https://www.youtube.com/watch?v=byHcYRpMgI4">
+    <img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/></a>
+<a href="https://developer.android.com/courses/android-basics-compose/course"> 
+    <img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/></a>
+<a href="https://code.visualstudio.com/docs/introvideos/basics">
+    <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></a>
 <br>
 
 #

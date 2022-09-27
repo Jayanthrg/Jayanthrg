@@ -5,7 +5,7 @@
 I'm an aspiring digital entrepreneur focusing on building my technical portfolio as well as learning new technologies and contributing what all i can to make the world a better place. All coding projects are build from the ground up, from planning and designing, using references as and when possible to achieve solutions to real-life problems. I am a very committed person towards my profession and passion (⌐■_■)
 
 <p align="center">
-    <img align="center" alt="Coding" wdith="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+    <img align="center" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 </p>
 
 ---

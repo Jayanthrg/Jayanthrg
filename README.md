@@ -43,4 +43,4 @@ I'm an aspiring digital entrepreneur focusing on building my technical portfolio
 <br>
 
 #
-<p align="center"><italic>“Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.”</italic> <strong>– Dan Salomon</strong></p>
+<p align="center"><i><b>“Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.”</i></b> – Dan Salomon</p>

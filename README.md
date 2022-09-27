@@ -2,10 +2,10 @@
 
 **`Digital Craftsman (Developer | Novelist | Gamer)`**
 
-Hey, I'm an aspiring digital entrepreneur focusing on building my technical portfolio as well as learning new technologies and contributing what all i can to make the world a better place. All coding projects are build from the ground up, from planning and designing, using references as and when possible to achieve solutions to real-life problems. I am a very committed person towards my profession and passion (⌐■_■)
+I'm an aspiring digital entrepreneur focusing on building my technical portfolio as well as learning new technologies and contributing what all i can to make the world a better place. All coding projects are build from the ground up, from planning and designing, using references as and when possible to achieve solutions to real-life problems. I am a very committed person towards my profession and passion (⌐■_■)
 
 <p align="center">
-    <a href:"https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"></a>
+    <img align="center" alt="Coding" wdith="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 </p>
 
 ---
@@ -21,20 +21,21 @@ Hey, I'm an aspiring digital entrepreneur focusing on building my technical port
 <img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
 <img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<br>
 
 #
 ### 💻🖥 Applications that i use every day
 
-🔭  **`Taskade`**   -  To do list & Notes
-🤔  **`Github`**    -  Repository maintanence 
-🌱  **`Forest`**    -  Pomodora focus timer
-💬  **`Xmind`**     -  Mindmaps and more...
-⚡  **`Vortex`**    -  Modding Skyrim 😄
+🔭  **`Taskade`**   -  To do list & Notes <br>
+🤔  **`Github`**    -  Repository maintanence <br>
+🌱  **`Forest`**    -  Pomodora focus timer <br>
+💬  **`Xmind`**     -  Mindmaps and more... <br>
+⚡  **`Vortex`**    -  Modding Skyrim 😄 <br>
 
 #
 ### CONNECT WITH ME:
 
 <a href="https://www.linkedin.com/in/jayanth-rg-350a76179/">
-    <img align="left" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/></a>
+    <img align="left" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
 <a href="https://www.instagram.com/jayanth_r_g/">
     <img align="left" alt="Instagram" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/></a>

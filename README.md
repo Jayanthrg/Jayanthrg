@@ -1,4 +1,4 @@
-![MasterHead](https://wallpaperaccess.com/full/7167590.jpg)
+![MasterHead](https://drive.google.com/file/d/1TSvqWQ8p6AOhpfiKRvvNBa1yWJfuHbqq/view?usp=sharing)
 <h3 align="center"> 🏂🏻Hi, Jayanth R G here</h3>
 
 **`Digital Craftsman (Developer | Novelist | Gamer)`**

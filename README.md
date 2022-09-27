@@ -1,7 +1,8 @@
-[![MasterHead](https://raw.githubusercontent.com/abdul/alfred-network-location-switch/master/preview.gif)
-# 🏂🏻Hi, Jayanth R G here
+![MasterHead](https://wallpaperaccess.com/full/7167590.jpg)
+#<h3 align="center"> 🏂🏻Hi, Jayanth R G here</h3>
 
 **`Digital Craftsman (Developer | Novelist | Gamer)`**
+#
 
 I'm an aspiring digital entrepreneur focusing on building my technical portfolio as well as learning new technologies and contributing what all i can to make the world a better place. All coding projects are build from the ground up, from planning and designing, using references as and when possible to achieve solutions to real-life problems. I am a very committed person towards my profession and passion (⌐■_■)
 
@@ -34,7 +35,7 @@ I'm an aspiring digital entrepreneur focusing on building my technical portfolio
 ⚡  **`Vortex`**    -  Modding Skyrim 😄 <br>
 
 #
-### CONNECT WITH ME:
+### Connect with me:
 
 <a href="https://www.linkedin.com/in/jayanth-rg-350a76179/">
     <img align="left" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>

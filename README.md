@@ -1,6 +1,5 @@
 ![MasterHead](https://images.hdqwalls.com/download/eat-sleep-code-repeat-er-1600x900.jpg)
-<h1 align="left"> 🏂🏻Hi, Jayanth R G here</h1>
-
+# 🏂🏻Hi, Jayanth R G here
 **`Digital Craftsman (Developer | Novelist | Gamer)`**
 #
 
@@ -44,4 +43,4 @@ I'm an aspiring digital entrepreneur focusing on building my technical portfolio
 <br>
 
 #
-<p align="center">“Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.” – Dan Salomon</p>
+<p align="center" style="italic">“Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.” – Dan Salomon</p>

@@ -30,9 +30,9 @@ I'm an aspiring digital entrepreneur focusing on building my technical portfolio
 <a href="https://developer.android.com/courses/android-basics-compose/course"> 
     <img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/></a>
 <a href="https://code.visualstudio.com/docs/introvideos/basics">
-    <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></a>
+    <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></a><br>
 <br>
-<br>
+
 #
 ### 💻🖥 Applications that i use every day
 

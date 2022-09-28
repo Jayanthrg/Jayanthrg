@@ -52,10 +52,13 @@ I'm an aspiring digital entrepreneur focusing on building my technical portfolio
 <br>
 
 #
-### Projects i'm working on currently
+### 💡 Projects i'm working on currently
 
 🥽 **`Pandora :- Customized content generator based on user email id`**<br>
 ⌚ **`Muscle Cramp Detector :- Machine learning and nlp based muscle cramp detector using IoT`** 
+
+#
+### 
 
 #
 <p align="center"><i><b>“Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.”</i></b> – Antoine de Saint-Exupery</p>

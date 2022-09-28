@@ -32,7 +32,7 @@ I'm an aspiring digital entrepreneur focusing on building my technical portfolio
 <a href="https://code.visualstudio.com/docs/introvideos/basics">
     <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></a>
 <br>
-
+<br>
 #
 ### 💻🖥 Applications that i use every day
 

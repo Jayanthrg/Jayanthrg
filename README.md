@@ -34,9 +34,9 @@ I'm an aspiring digital entrepreneur focusing on building my technical portfolio
 <br>
 
 #
-### 💻🖥 Applications that i use every day
+### 💻 Applications that i use every day
 
-🔭  **`Taskade`**   -  To do list & Notes <br>
+🔭  **`Notion`**    -  To do list & Notes <br>
 🤔  **`Github`**    -  Repository maintanence <br>
 🌱  **`Forest`**    -  Pomodora focus timer <br>
 💬  **`Xmind`**     -  Mindmaps and more... <br>
@@ -50,6 +50,12 @@ I'm an aspiring digital entrepreneur focusing on building my technical portfolio
 <a href="https://www.instagram.com/jayanth_r_g/">
     <img align="left" alt="Instagram" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/></a>
 <br>
+
+#
+### Projects i'm working on currently
+
+🥽 **`Pandora :- Customized content generator based on user email id`**
+⌚ **`Muscle Cramp Detector :- Machine learning and nlp based muscle cramp detector using IoT`** 
 
 #
 <p align="center"><i><b>“Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.”</i></b> – Antoine de Saint-Exupery</p>

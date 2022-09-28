@@ -2,7 +2,7 @@
 # 🏂🏻Hi, Jayanth R G here
 **`Digital Craftsman (Developer | Novelist | Gamer)`**
 
-<p align="center">
+<p align="left">
 I'm an aspiring digital entrepreneur focusing on building my technical portfolio as well as learning new technologies and contributing what all i can to make the world a better place. All coding projects are build from the ground up, from planning and designing, using references as and when possible to achieve solutions to real-life problems. I am a very committed person towards my profession and passion (⌐■_■)
 </p>
 

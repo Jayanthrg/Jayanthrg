@@ -54,7 +54,7 @@ I'm an aspiring digital entrepreneur focusing on building my technical portfolio
 #
 ### Projects i'm working on currently
 
-🥽 **`Pandora :- Customized content generator based on user email id`**
+🥽 **`Pandora :- Customized content generator based on user email id`**<br>
 ⌚ **`Muscle Cramp Detector :- Machine learning and nlp based muscle cramp detector using IoT`** 
 
 #

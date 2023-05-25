@@ -1,4 +1,4 @@
-#![MasterHead](https://images.hdqwalls.com/download/eat-sleep-code-repeat-er-1600x900.jpg)
+![MasterHead](https://images.hdqwalls.com/download/eat-sleep-code-repeat-er-1600x900.jpg)
 # 🏂🏻Hi, Jayanth R G here
 **`Digital Craftsman (Developer | Novelist | Gamer)`**
 
